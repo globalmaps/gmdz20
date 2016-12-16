@@ -9,6 +9,6 @@ Credit: "Global Map of Algeria © ISCGM/The National Institute of Cartography an
 
 Contact: The National Institute of Cartography and Remote Sensing.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/algeria.png)
+E-mail: ![email](email.png)
 
 URL: www.inct.mdn.dz
